@@ -1,0 +1,29 @@
+.SearchPage{
+ flex: .8;
+}
+
+.searchPage__filter{
+ display: flex;
+ text-align: center;
+ color: #606060;
+
+}
+.searchPage__filter >h2 {
+    margin-top: 12px;
+}
+.mdtune{
+    margin-top:20px;
+    font-size: 25px;
+}
+
+.searchPage__filter > h2 {
+    margin-left: 10px;
+}
+
+.SearchPage >hr {
+    border: 0;
+    height: 1px;
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

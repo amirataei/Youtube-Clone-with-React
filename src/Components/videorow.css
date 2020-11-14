@@ -1,0 +1,22 @@
+.VideoRow{
+    display : flex;
+    margin-bottom : 30px;
+    max-width: 700px;
+}
+
+.VideoRow > img{
+
+    object-fit: contain;
+    width: 246px;
+    height: 138px;
+} 
+
+.VideoRow__text{
+
+ margin-left: 14px;
+
+}
+.VideoRow__subs{
+    padding: 2px;
+    background-color: lightgray;
+}
